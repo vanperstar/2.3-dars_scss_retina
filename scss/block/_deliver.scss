@@ -21,6 +21,10 @@
     height: 250px;
     background: #0E8784;
     border-radius: 8px;
+    cursor: pointer;
+    &:active{
+        background: #FDD6BA;
+    }
 }
 
 .every_title{
@@ -47,6 +51,10 @@
     height: 250px;
     background: #F4F1EB;
     border-radius: 8px;
+    cursor: pointer;
+    &:active{
+        background: #FDD6BA;
+    }
 }
 
 .month_title{

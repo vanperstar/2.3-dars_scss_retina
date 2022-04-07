@@ -41,4 +41,8 @@
     line-height: 25px;
     text-align: center;
     color: #FEFCF7;
+    cursor: pointer;
+    &:active{
+        background: #66D2CF;
+    }
 }

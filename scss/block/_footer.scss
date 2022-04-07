@@ -31,6 +31,9 @@
     letter-spacing: 0.923077px;
     text-transform: uppercase;
     color: #83888F;
+    &:active{
+        color: #FEFCF7;
+    }
 }
 
 .footer_link{

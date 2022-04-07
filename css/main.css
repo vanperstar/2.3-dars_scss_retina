@@ -558,6 +558,11 @@ body {
   height: 250px;
   background: #F4F1EB;
   border-radius: 8px;
+  cursor: pointer;
+}
+
+.drink_capsule:active {
+  background: #FDD6BA;
 }
 
 .drink_capsule_title {
@@ -584,6 +589,11 @@ body {
   height: 250px;
   background: #0E8784;
   border-radius: 8px;
+  cursor: pointer;
+}
+
+.drink_filter:active {
+  background: #FDD6BA;
 }
 
 .drink_filter_title {
@@ -631,6 +641,11 @@ body {
   height: 250px;
   background: #F4F1EB;
   border-radius: 8px;
+  cursor: pointer;
+}
+
+.origin:active {
+  background: #FDD6BA;
 }
 
 .origin_title {
@@ -656,6 +671,11 @@ body {
   height: 250px;
   background: #0E8784;
   border-radius: 8px;
+  cursor: pointer;
+}
+
+.decaf:active {
+  background: #FDD6BA;
 }
 
 .decaf_title {
@@ -701,6 +721,11 @@ body {
   height: 250px;
   background: #0E8784;
   border-radius: 8px;
+  cursor: pointer;
+}
+
+.would_250:active {
+  background: #FDD6BA;
 }
 
 .would_250_title {
@@ -727,6 +752,11 @@ body {
   height: 250px;
   background: #F4F1EB;
   border-radius: 8px;
+  cursor: pointer;
+}
+
+.would_500:active {
+  background: #FDD6BA;
 }
 
 .would_500_title {
@@ -772,6 +802,11 @@ body {
   height: 250px;
   background: #F4F1EB;
   border-radius: 8px;
+  cursor: pointer;
+}
+
+.filter:active {
+  background: #FDD6BA;
 }
 
 .filter_title {
@@ -798,6 +833,11 @@ body {
   height: 250px;
   background: #0E8784;
   border-radius: 8px;
+  cursor: pointer;
+}
+
+.cafetiere:active {
+  background: #FDD6BA;
 }
 
 .cafetiere_title {
@@ -860,6 +900,11 @@ body {
   line-height: 25px;
   text-align: center;
   color: #FEFCF7;
+  cursor: pointer;
+}
+
+.btn-success:active {
+  background: #66D2CF;
 }
 
 .deliver {
@@ -887,6 +932,11 @@ body {
   height: 250px;
   background: #0E8784;
   border-radius: 8px;
+  cursor: pointer;
+}
+
+.every:active {
+  background: #FDD6BA;
 }
 
 .every_title {
@@ -913,6 +963,11 @@ body {
   height: 250px;
   background: #F4F1EB;
   border-radius: 8px;
+  cursor: pointer;
+}
+
+.month:active {
+  background: #FDD6BA;
 }
 
 .month_title {
@@ -971,6 +1026,10 @@ body {
   letter-spacing: 0.923077px;
   text-transform: uppercase;
   color: #83888F;
+}
+
+.footer_nav_link:active {
+  color: #FEFCF7;
 }
 
 .footer_link {

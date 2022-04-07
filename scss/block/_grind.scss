@@ -21,6 +21,10 @@
     height: 250px;
     background: #F4F1EB;
     border-radius: 8px;
+    cursor: pointer;
+    &:active{
+        background: #FDD6BA;
+    }
 }
 
 .filter_title{
@@ -46,7 +50,11 @@
     width: 228px;
     height: 250px;
     background: #0E8784;
-    border-radius: 8px;  
+    border-radius: 8px;
+    cursor: pointer;
+    &:active{
+        background: #FDD6BA;
+    }
 }
 
 .cafetiere_title{
