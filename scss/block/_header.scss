@@ -1,0 +1,28 @@
+.header{
+    padding: 40px 0;
+    display: flex;
+    justify-content: space-between;
+}
+.header_logo_img{
+    display: block;
+}
+
+.header_nav{
+    list-style: none;
+    display: flex;
+}
+
+
+.header_nav_item{
+    margin-right: 20px;
+}
+
+.header_nav_link{
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    letter-spacing: 0.923077px;
+    text-transform: uppercase;
+    color: #83888F;
+}

@@ -1,0 +1,26 @@
+.content{
+    display: flex;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+
+.content_nav_link{
+    text-decoration: none;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 32px;
+    color: #333D4B;
+}
+
+.content_nav_item{
+    margin: 20px 0;
+}
+
+.content_line{
+    width: 205px;
+    height: 1px;
+    background: #83888F;
+    mix-blend-mode: normal;
+    opacity: 0.25;
+}

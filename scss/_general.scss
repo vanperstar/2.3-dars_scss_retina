@@ -1,0 +1,33 @@
+html{
+    box-sizing: border-box;
+}
+
+*,
+*::after,
+*::before{
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+body{
+    font-family: 'Catamaran', sans-serif;
+    font-family: 'Fraunces', serif;
+    font-size: 18px;
+}
+
+.container{
+    max-width: 1280px;
+    margin: auto;
+    padding: 0 80px;
+}
+
+.nav{
+    list-style: none;
+}
+
+.btn{
+    border: none;
+    background: #0E8784;
+    border-radius: 6px;
+}

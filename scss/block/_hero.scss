@@ -1,0 +1,33 @@
+.hero{
+    margin-bottom: 200px;
+    height: 450px;
+    border-radius: 8px;
+    background: url(../img/bacground_img.png);
+}
+
+.hero_block{
+    padding: 100px 0;
+}
+
+.hero_title{
+    margin-bottom: 32px;
+    width: 480px;
+    height: 72px;
+    font-family: 'Fraunces 9pt';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 72px;
+    line-height: 72px;
+    color: #FEFCF7;
+}
+
+.hero_description{
+    width: 445px;
+    height: 72px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    mix-blend-mode: normal;
+    opacity: 0.8;
+    color: #FEFCF7;
+}
